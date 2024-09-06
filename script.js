@@ -7,8 +7,7 @@ alternativas: [
 { 
 texto: "Baixo", 
 //*aqui eu coloco a primeira possível resposta para a pergunta central do  quiz 
-afirmacao: "Você está começando a aprender sobre os  
-impactos das mudanças climáticas. " 
+afirmacao: "Você está começando a aprender sobre os impactos das mudanças climáticas. " 
 //*aqui eu coloco o que a pessoa está afirmando com esta resposta, isto  dará o resultado do meu quiz 
 }, 
 { 
@@ -64,10 +63,8 @@ texto: "a) Aumento das temperaturas médias",
 afirmacao: "O aumento das temperaturas médias é um efeito imediato das mudanças climáticas. " 
 }, 
 { 
-texto: "b) Aumento da frequência de eventos climáticos  
-extremos", 
-afirmacao: "A maior frequência de eventos climáticos  
-extremos é um impacto direto das mudanças climáticas. " 
+texto: "b) Aumento da frequência de eventos climáticos extremos", 
+afirmacao: "A maior frequência de eventos climáticos extremos é um impacto direto das mudanças climáticas. " 
 }, 
 { 
 texto: "c) Acidificação dos oceanos", 
