@@ -14,8 +14,7 @@ impactos das mudanças climáticas. "
 { 
 texto: "Médio", 
 //*aqui eu coloco a segunda possível resposta para a pergunta central do  quiz 
-afirmacao: "Você tem um conhecimento razoável sobre os  
-impactos das mudanças climáticas. " 
+afirmacao: "Você tem um conhecimento razoável sobre os impactos das mudanças climáticas. " 
 //*aqui eu coloco o que a pessoa está afirmando com esta resposta, isto  dará o resultado do meu quiz 
 }, 
 { 
@@ -45,25 +44,24 @@ afirmacao: "O desmatamento contribui significativamente  para as mudanças clim�
 { 
 texto: "c) Uso de combustíveis fósseis", 
 //*aqui eu coloco a terceira resposta para a pergunta 
-afirmacao: "O uso de combustíveis fósseis é uma das  
-principais fontes de emissões de gases de efeito estufa. " //*aqui eu coloco o que a pessoa está afirmando com esta resposta, isto  dará o resultado do meu quiz 
+afirmacao: "O uso de combustíveis fósseis é uma das principais fontes de emissões de gases de efeito estufa. "
+  //*aqui eu coloco o que a pessoa está afirmando com esta resposta, isto  dará o resultado do meu quiz 
 }, 
 { 
 texto: "d) Todas as opções acima", 
 //*aqui eu coloco a quarta resposta para a pergunta; --> 
-afirmacao: "Todas as opções mencionadas são causas  
-principais das mudanças climáticas. " 
+afirmacao: "Todas as opções mencionadas são causas principais das mudanças climáticas. " 
 //*aqui eu coloco o que a pessoa está afirmando com esta resposta, isto  dará o resultado do meu quiz 
 } 
 ] 
 },
 { 
-enunciado: "2 - Quais são alguns dos efeitos imediatos das mudanças  climáticas em diferentes regiões do mundo?", 
+enunciado: "2 - Quais são alguns dos efeitos imediatos das mudanças climáticas em diferentes regiões do mundo?", 
 //*aqui eu coloco a minha segunda pergunta sobre o tema do quiz, e  continuo com o script conforme eu fiz para a primeira pergunta 
 alternativas: [ 
 { 
 texto: "a) Aumento das temperaturas médias", 
-afirmacao: "O aumento das temperaturas médias é um efeito  imediato das mudanças climáticas. " 
+afirmacao: "O aumento das temperaturas médias é um efeito imediato das mudanças climáticas. " 
 }, 
 { 
 texto: "b) Aumento da frequência de eventos climáticos  
@@ -77,8 +75,7 @@ afirmacao: "A acidificação dos oceanos é uma consequência  das mudanças cli
 }, 
 { 
 texto: "d) Todas as opções acima", 
-afirmacao: "Todos os efeitos mencionados são impactos  
-imediatos das mudanças climáticas. " 
+afirmacao: "Todos os efeitos mencionados são impactos imediatos das mudanças climáticas. " 
 } 
 ] 
 }, 
@@ -90,17 +87,14 @@ texto: "a) Investimento em energias renováveis",
 afirmacao: "O investimento em energias renováveis é uma das  principais medidas para mitigar as mudanças climáticas. " 
 }, 
 { 
-texto: "b) Implementação de políticas de conservação  
-ambiental", 
-afirmacao: "A implementação de políticas de conservação  
-ambiental é crucial para combater as mudanças climáticas. " }, 
+texto: "b) Implementação de políticas de conservação ambiental", 
+afirmacao: "A implementação de políticas de conservação ambiental é crucial para combater as mudanças climáticas. " }, 
 { 
 texto: "c) Acordos internacionais como o Acordo de Paris", afirmacao: "Acordos internacionais como o Acordo de Paris  são essenciais para a ação climática global. " 
 }, 
 { 
 texto: "d) Todas as opções acima",
-afirmacao: "Todas as medidas mencionadas são importantes  
-para mitigar as mudanças climáticas. " 
+afirmacao: "Todas as medidas mencionadas são importantes para mitigar as mudanças climáticas. " 
 } 
 ] 
 } 
