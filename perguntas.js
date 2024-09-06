@@ -6,8 +6,7 @@ alternativas: [
 texto: "Isso é assustador!", 
 afirmacao: [ 
 "No início ficou com medo do que essa tecnologia pode fazer.", 
-"Achou assustador pensar na velocidade na qual a  
-tecnologia está avançando." 
+"Achou assustador pensar na velocidade na qual a tecnologia está avançando." 
 ], 
 proxima: 1, 
 }, 
@@ -58,8 +57,7 @@ texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas 
 afirmacao: [ 
 "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho.", 
 "Achou que era muito mais fácil procurar por respostas utilizando alguns meios mais tradicionais mesmo que levasse  mais tempo.", 
-"Sentiu um pouco de medo de quais dados pessoais seus  
-a IA poderia utilizar e por isso prefere fazer suas coisas com pouca  intromissão da tecnologia." 
+"Sentiu um pouco de medo de quais dados pessoais seus a IA poderia utilizar e por isso prefere fazer suas coisas com pouca  intromissão da tecnologia." 
 ], 
 proxima: 4, 
 }, 
